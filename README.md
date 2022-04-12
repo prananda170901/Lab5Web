@@ -11,3 +11,15 @@
 <br>Pemakaian Prompt
 ![p](img/SS5.png)
 ![p](img/SS6.png)
+
+# 2. Dasar Pemograman Di Javascript
+<br>Operasi dasar aritmatika
+![p](img/SS7.png)
+<br>Seleksi kondisi(if..else)
+<br>disini saya memasukan data 75
+![p](img/SS8.png)
+<br>Penggunaan operator switch untuk seleksi kondisi
+![p](img/SS9.png)
+![p](img/SS10.png)
+
+# 3. Pembuatan Form

@@ -31,3 +31,5 @@
 ![p](img/SS13.png)
 
 # 4. HTML DOM
+<br>Pilihan menggunakan checkBox dengan Perhitungan otomatis
+![p](img/SS14.png)
